@@ -6,6 +6,4 @@ We used this dataset to build custom Neural Machine Translation models for Lugan
 Reference paper;
 Kimera, R., Rim, D.N. and Choi, H., 2022. Building a Parallel Corpus and Training Translation Models Between Luganda and English. 정보과학회논문지, 49(11), pp.1009-1016.
 
-Or: 
 Kimera, R., Rim, D.N. and Choi, H., 2023. Building a Parallel Corpus and Training Translation Models Between Luganda and English. arXiv preprint arXiv:2301.02773.
-
