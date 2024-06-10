@@ -1,5 +1,6 @@
 # English-Luganda-Parallel-corpus
-This is a bilingual corpus of English and Luganda for use in Neural Machine Translation tasks. I give credit to [Zenodo](https://zenodo.org/record/4764039#.YqXWwDdBy3K) and [Sunbird AI](https://sunbird.ai/2021/06/) for the public datasets that gave a foundation to this work. I have also included the King James version of the bible text that is well alighned between English and Luganda, this was extracted from [Bible World Project] (https://www.wordproject.org/bibles/)
+This is a bilingual corpus of English and Luganda for use in Neural Machine Translation tasks. I give credit to [Zenodo](https://zenodo.org/record/4764039#.YqXWwDdBy3K) and [Sunbird AI](https://sunbird.ai/2021/06/) for the public datasets that gave a foundation to this work. I have also included the King James version of the bible text that is well alighned between English and Luganda, this was extracted from [Bible World Project] (https://www.wordproject.org/bibles/) const link = `<a href="https://sunbird.ai/2021/06/">Sunbird AI</a>`;
+
 
 We used this dataset to build custom Neural Machine Translation models for Luganda and English. After hyperparameter tuning, we achieved a BLEU score of 21.28 for English-to-Luganda and 17.47 for Luganda-to-English. 
 
